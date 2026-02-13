@@ -9,4 +9,4 @@
 
 Папка с материалами:https://drive.google.com/drive/folders/1Hq2RB-hAuNdbNM6xmnW4TfUKr7EsA6jX
 
-ВАЖНОЕ:Используется MockAPI.Не работает на Flutter Web.Из-за браузера который блокирует запросы к внешнему серверу (CORS политики браузера), иными словами работает на исключительно на Android-эмуляторе или при команде "flutter run -d chrome --web-browser-flag="--disable-web-security"
+ВАЖНОЕ:Используется MockAPI.Не работает на Flutter Web.Из-за браузера который блокирует запросы к внешнему серверу (CORS политики браузера), иными словами работает на исключительно на Android-эмуляторе или при команде "flutter run -d chrome --web-browser-flag="--disable-web-security" (рискованно)
